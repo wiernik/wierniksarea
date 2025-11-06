@@ -1,3 +1,10 @@
+---
+layout: home
+title: Home
+---
+
+Welcome! This is my academic website.
+
 header test
 
 **Recent news**
