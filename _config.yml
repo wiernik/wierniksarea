@@ -1,0 +1,9 @@
+title: Your Name
+description: Academic website
+url: https://<username>.github.io   # <-- replace with your username
+baseurl: ""                         # user sites MUST leave this empty
+
+theme: minima                       # simple built-in theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
