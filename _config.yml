@@ -1,9 +1,9 @@
-title: Your Name
+title: Lydia Wiernik
 description: Academic website
-url: https://<username>.github.io   # <-- replace with your username
-baseurl: ""                         # user sites MUST leave this empty
+url: https://wierniksarea.github.io   
+baseurl: ""                        
 
-theme: minima                       # simple built-in theme
+theme: minima                      
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
