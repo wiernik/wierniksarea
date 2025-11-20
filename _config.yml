@@ -3,12 +3,6 @@ description: "Academic website"
 url: "https://wiernik.github.io"  
 baseurl: "/wierniksarea"               
 
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-
 theme: minima                      
 plugins:
   - jekyll-feed
